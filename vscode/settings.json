@@ -13,5 +13,13 @@
     "telemetry.enableTelemetry": false,
     "gulp.autoDetect": "off",
     "grunt.autoDetect": "off",
-    "jake.autoDetect": "off"
+    "jake.autoDetect": "off",
+    "workbench.startupEditor": "newUntitledFile",
+    "java.completion.importOrder": [
+        "java",
+        "javax",
+        "org",
+        "com"
+      ],
+    "java.progressReports.enabled": false,
 }
