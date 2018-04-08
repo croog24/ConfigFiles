@@ -1,0 +1,17 @@
+{
+    "editor.cursorStyle": "block",
+    "editor.links": false,
+    "editor.minimap.enabled": false,
+    "editor.parameterHints": false,
+    "editor.smoothScrolling": true,
+    "editor.wordBasedSuggestions": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.statusBar.feedback.visible": false,
+    "files.insertFinalNewline": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "gulp.autoDetect": "off",
+    "grunt.autoDetect": "off",
+    "jake.autoDetect": "off"
+}
