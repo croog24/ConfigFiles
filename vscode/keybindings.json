@@ -55,5 +55,15 @@
     {
         "key": "ctrl+g",
         "command": "-workbench.action.gotoLine"
+    },
+    {
+        "key": "ctrl+shift+o",
+        "command": "java.edit.organizeImports",
+        "when": "editorTextFocus && !editorReadonly && editorLangId == 'java'"
+    },
+    {
+        "key": "shift+alt+o",
+        "command": "-java.edit.organizeImports",
+        "when": "editorTextFocus && !editorReadonly && editorLangId == 'java'"
     }
 ]
