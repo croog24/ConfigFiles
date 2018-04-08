@@ -39,5 +39,21 @@
         "key": "shift+alt+o",
         "command": "-typescript.organizeImports",
         "when": "typescript.canOrganizeImports && typescript.isManagedFile"
+    },
+    {
+        "key": "ctrl+g",
+        "command": "workbench.action.gotoSymbol"
+    },
+    {
+        "key": "ctrl+shift+o",
+        "command": "-workbench.action.gotoSymbol"
+    },
+    {
+        "key": "ctrl+l",
+        "command": "workbench.action.gotoLine"
+    },
+    {
+        "key": "ctrl+g",
+        "command": "-workbench.action.gotoLine"
     }
 ]
